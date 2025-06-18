@@ -1,4 +1,4 @@
-baseURL: 'https://temetra.cc/'
+baseURL: 'https://temetra.cc/hugo-test'
 languageCode: en-us
 title: Temetra
 theme: temetra
